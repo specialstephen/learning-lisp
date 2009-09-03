@@ -11,13 +11,14 @@ h2. References
 h3. Core References
 
 * "The Common Lisp Cookbook":http://cl-cookbook.sourceforge.net/ how to get simple things done
-* "Practical Common Lisp":http://gigamonkeys.com/book/ whole book online 2005 (I might by this)
+* "Practical Common Lisp":http://gigamonkeys.com/book/ whole book online 2005 (I might buy this)
 * "ANSI Common LISP":http://www.amazon.com/ANSI-Common-LISP-Paul-Graham/dp/0133708756/ 1995 by pg (I might buy this)
 
 h3. Second Order References (for when I get better)
 
-* "Structure and Interpretation of Computer Programs":http://mitpress.mit.edu/sicp/ full text online (I might buy thus)
+* "Structure and Interpretation of Computer Programs":http://mitpress.mit.edu/sicp/ programming fundamentals with LISP - full text online (I might buy this)
 * "On Lisp":http://www.paulgraham.com/onlisptext.html pg's book, the book for advanced topics
+* "Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp":http://norvig.com/paip.html doing AI with LISP by Norvig
 
 h3. Reference Lists
 
