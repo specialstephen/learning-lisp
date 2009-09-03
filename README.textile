@@ -13,6 +13,7 @@ h3. Core References
 * "The Common Lisp Cookbook":http://cl-cookbook.sourceforge.net/ how to get simple things done
 * "Practical Common Lisp":http://gigamonkeys.com/book/ whole book online 2005 (I might buy this)
 * "ANSI Common LISP":http://www.amazon.com/ANSI-Common-LISP-Paul-Graham/dp/0133708756/ 1995 by pg (I might buy this)
+* "Common Lisp the Language, 2nd Edition":http://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node1.html full text
 
 h3. Second Order References (for when I get better)
 
@@ -29,7 +30,12 @@ h3. General
 
 * "Association of Lisp Users":http://www.lisp.org seminal, ugly site 
 * "Wikipedia: Common Lisp":http://en.wikipedia.org/wiki/Common_Lisp  
-* "Common Lisp on Mac OS X":http://www.newartisans.com/2007/10/common-lisp-on-mac-os-x.html (2007) guide to installing emacs and Steel Bank Common Lisp (SBCL) on mac
+* "Common Lisp on Mac OS X":http://www.newartisans.com/2007/10/common-lisp-on-mac-os-x.html (2007) guide to installing emacs and "Steel Bank Common Lisp":http://www.sbcl.org/ (SBCL) on mac
+* "Lisp bundle for Textmate":http://zoetrope.speakermouth.com/2008/4/9/lisp-bundle-for-textmate
+* "GNU CLISP":http://www.clisp.org/ an ansi common lisp that will work everywhere 
+* "Everything You Need To Get Started With Common Lisp":http://www.jakevoytko.com/blog/2008/12/29/everything-you-need-to-get-started-with-common-lisp/ (2008) a detailed guide
+* "ASDF-Install":http://www.cliki.net/ASDF-Install a development application for downloading and installing lisp packages
+* "SLIME: The Superior Lisp Interaction Mode for Emacs":http://common-lisp.net/project/slime/ a Emacs mode for Common Lisp development
 
 h2. License
 
