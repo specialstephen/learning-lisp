@@ -17,7 +17,7 @@ h3. Core References
 h3. Second Order References (for when I get better)
 
 * "Structure and Interpretation of Computer Programs":http://mitpress.mit.edu/sicp/ programming fundamentals with LISP - full text online (I might buy this)
-* "On Lisp":http://www.paulgraham.com/onlisptext.html pg's book, the book for advanced topics
+* "On Lisp":http://www.paulgraham.com/onlisptext.html pg's book - full text, _the_ book for advanced topics
 * "Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp":http://norvig.com/paip.html doing AI with LISP by Norvig
 
 h3. Reference Lists
@@ -25,6 +25,11 @@ h3. Reference Lists
 * "pg's LISP page":http://www.paulgraham.com/lisp.html interesting articles and useful links
 * "lispmachine":http://www.lispmachine.net/ This is a collection of Lisp / Scheme books and online resources.
 
+h3. General
+
+* "Association of Lisp Users":http://www.lisp.org seminal, ugly site 
+* "Wikipedia: Common Lisp":http://en.wikipedia.org/wiki/Common_Lisp  
+* "Common Lisp on Mac OS X":http://www.newartisans.com/2007/10/common-lisp-on-mac-os-x.html (2007) guide to installing emacs and Steel Bank Common Lisp (SBCL) on mac
 
 h2. License
 
