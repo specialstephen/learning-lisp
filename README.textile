@@ -53,6 +53,7 @@ h3. General
 * "ASDF-Install":http://www.cliki.net/ASDF-Install a development application for downloading and installing lisp packages
 * "SLIME: The Superior Lisp Interaction Mode for Emacs":http://common-lisp.net/project/slime/ a Emacs mode for Common Lisp development
 * "Emacs Cheat Sheet":http://ccrma.stanford.edu/guides/package/emacs/emacs.html
+* "Practical example of Lisp’s flexibility?":http://stackoverflow.com/questions/106058/practical-example-of-lisps-flexibility some great macro examples
 
 h3. Stories
 
@@ -64,6 +65,7 @@ h3. Videos
 
 * "Practical Common Lisp":http://www.youtube.com/watch?v=VeAdryYZ7ak google tech talk by Peter Seibel (May 2006)
 * "Lisp for High-Performance Transaction Processing":http://www.youtube.com/watch?v=xquJvmHF3S8 google tech talk by Daniel L. Weinreb (August 2009)
+* "Structure and Interpretation of Computer Programs":http://groups.csail.mit.edu/mac/classes/6.001/abelson-sussman-lectures/ MIT video course on programming using LISP
 
 
 h2. License
