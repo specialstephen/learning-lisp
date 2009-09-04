@@ -6,6 +6,10 @@ h2. Objectives
 
 * To become competent enough in ANSI Common LISP to be able to exploit it for ad hoc software development projects.
 
+h2. Programs
+
+none yet 
+
 h2. References
 
 h3. Core References
@@ -25,6 +29,8 @@ h3. Reference Lists
 
 * "pg's LISP page":http://www.paulgraham.com/lisp.html interesting articles and useful links
 * "lispmachine":http://www.lispmachine.net/ This is a collection of Lisp / Scheme books and online resources.
+* "Planet Lisp":http://planet.lisp.org/ blog
+* "the common lisp wiki":http://www.cliki.net/
 
 h3. General
 
@@ -39,7 +45,9 @@ h3. General
 
 h3. Videos
 
+* "Practical Common Lisp":http://www.youtube.com/watch?v=VeAdryYZ7ak google tech talk by Peter Seibel (May 2006)
 * "Lisp for High-Performance Transaction Processing":http://www.youtube.com/watch?v=xquJvmHF3S8 google tech talk by Daniel L. Weinreb (August 2009)
+
 
 h2. License
 
