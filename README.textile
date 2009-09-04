@@ -5,6 +5,9 @@ A sandbox project used by Jason Brownlee to learn ANSI Common LISP.
 h2. Objectives
 
 * To become competent enough in ANSI Common LISP to be able to exploit it for ad hoc software development projects.
+* Explore some espoused and advanced features, such as:
+** macros
+** dynamic code rewriting
 
 h2. Programs
 
@@ -42,6 +45,7 @@ h3. General
 * "Everything You Need To Get Started With Common Lisp":http://www.jakevoytko.com/blog/2008/12/29/everything-you-need-to-get-started-with-common-lisp/ (2008) a detailed guide
 * "ASDF-Install":http://www.cliki.net/ASDF-Install a development application for downloading and installing lisp packages
 * "SLIME: The Superior Lisp Interaction Mode for Emacs":http://common-lisp.net/project/slime/ a Emacs mode for Common Lisp development
+* "Emacs Cheat Sheet":http://ccrma.stanford.edu/guides/package/emacs/emacs.html
 
 h3. Videos
 
