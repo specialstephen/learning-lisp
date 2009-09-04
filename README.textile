@@ -13,6 +13,13 @@ h2. Programs
 
 none yet 
 
+h2. My current rig
+
+* sbcl-1.0.22-powerpc-darwin
+* GNU Emacs 22.1.1 (came with darwin) 
+* SLIME (cvs access on Sept 4th 2009)
+
+
 h2. References
 
 h3. Core References
@@ -50,6 +57,8 @@ h3. General
 h3. Stories
 
 * "Lisping at JPL":http://www.flownet.com/gat/jpl-lisp.html the rise and fall of Lisp at the Jet Propulsion Lab by Ron Garret
+* "Reddit and Lisp psychosis":http://www.findinglisp.com/blog/2005/12/reddit-and-lisp-psychosis.html a review of "reddit's rewrite from lisp to python":http://blog.reddit.com/2005/12/on-lisp.html
+
 
 h3. Videos
 
