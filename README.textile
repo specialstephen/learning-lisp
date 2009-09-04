@@ -47,6 +47,10 @@ h3. General
 * "SLIME: The Superior Lisp Interaction Mode for Emacs":http://common-lisp.net/project/slime/ a Emacs mode for Common Lisp development
 * "Emacs Cheat Sheet":http://ccrma.stanford.edu/guides/package/emacs/emacs.html
 
+h3. Stories
+
+* "Lisping at JPL":http://www.flownet.com/gat/jpl-lisp.html the rise and fall of Lisp at the Jet Propulsion Lab by Ron Garret
+
 h3. Videos
 
 * "Practical Common Lisp":http://www.youtube.com/watch?v=VeAdryYZ7ak google tech talk by Peter Seibel (May 2006)
