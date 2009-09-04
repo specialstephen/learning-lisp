@@ -37,6 +37,10 @@ h3. General
 * "ASDF-Install":http://www.cliki.net/ASDF-Install a development application for downloading and installing lisp packages
 * "SLIME: The Superior Lisp Interaction Mode for Emacs":http://common-lisp.net/project/slime/ a Emacs mode for Common Lisp development
 
+h3. Videos
+
+* "Lisp for High-Performance Transaction Processing":http://www.youtube.com/watch?v=xquJvmHF3S8 google tech talk by Daniel L. Weinreb (August 2009)
+
 h2. License
 
 (The MIT License)
