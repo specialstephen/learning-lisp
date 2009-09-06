@@ -29,10 +29,12 @@ h2. References
 
 h3. Core References
 
+* "The Common Lisp HyperSpec":http://www.lispworks.com/documentation/common-lisp.html
 * "The Common Lisp Cookbook":http://cl-cookbook.sourceforge.net/ how to get simple things done
 * "Practical Common Lisp":http://gigamonkeys.com/book/ whole book online 2005 (I might buy this)
 * "ANSI Common LISP":http://www.amazon.com/ANSI-Common-LISP-Paul-Graham/dp/0133708756/ 1995 by pg (I might buy this)
 * "Common Lisp the Language, 2nd Edition":http://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node1.html full text
+* "Lisp Primer":http://mypage.iu.edu/~colallen/lp/
 
 h3. Second Order References (for when I get better)
 
@@ -46,6 +48,7 @@ h3. Reference Lists
 * "lispmachine":http://www.lispmachine.net/ This is a collection of Lisp / Scheme books and online resources.
 * "Planet Lisp":http://planet.lisp.org/ blog
 * "the common lisp wiki":http://www.cliki.net/
+* "Common Lisp Educational Resources: Online Tutorials":http://lisp.org/alu/res-lisp-education
 
 h3. General
 
@@ -61,6 +64,7 @@ h3. General
 * "Practical example of Lisp’s flexibility?":http://stackoverflow.com/questions/106058/practical-example-of-lisps-flexibility some great macro examples
 * "Casting SPELs in LISP":http://www.lisperati.com/casting.html lisp comic book - tutorial for writing a game in lisp
 * "CL, Music and SLIME Tutorials":http://bc.tech.coop/blog/050501.html Tutorial for getting up to speed on emacs+slime+lisp
+* "Ready Lisp":http://www.newartisans.com/projects/ready-lisp.html a binding together of several popular Common Lisp packages especially for Mac OS X
 
 h3. Stories
 
