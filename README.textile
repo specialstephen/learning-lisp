@@ -9,9 +9,15 @@ h2. Objectives
 ** macros
 ** dynamic code rewriting
 
-h2. Programs
+h2. Code
+
+h3. Scripts 
 
 none yet!
+
+h3. Observations
+
+* Productivity: The interpreter (REPL) and allows you to test and debug functions and code snippets live while developing. Much like Ruby's IRB, and very much unlike the C/Java family.
 
 h2. My current rig
 
