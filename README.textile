@@ -53,6 +53,7 @@ h3. General
 * "SLIME: The Superior Lisp Interaction Mode for Emacs":http://common-lisp.net/project/slime/ a Emacs mode for Common Lisp development
 * "Emacs Cheat Sheet":http://ccrma.stanford.edu/guides/package/emacs/emacs.html
 * "Practical example of Lisp’s flexibility?":http://stackoverflow.com/questions/106058/practical-example-of-lisps-flexibility some great macro examples
+* "Casting SPELs in LISP":http://www.lisperati.com/casting.html lisp comic book
 
 h3. Stories
 
