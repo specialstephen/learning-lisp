@@ -56,10 +56,11 @@ h3. General
 * "GNU CLISP":http://www.clisp.org/ an ansi common lisp that will work everywhere 
 * "Everything You Need To Get Started With Common Lisp":http://www.jakevoytko.com/blog/2008/12/29/everything-you-need-to-get-started-with-common-lisp/ (2008) a detailed guide
 * "ASDF-Install":http://www.cliki.net/ASDF-Install a development application for downloading and installing lisp packages
-* "SLIME: The Superior Lisp Interaction Mode for Emacs":http://common-lisp.net/project/slime/ a Emacs mode for Common Lisp development
+* "SLIME: The Superior Lisp Interaction Mode for Emacs":http://common-lisp.net/project/slime/ a Emacs mode for Common Lisp development and the "SLIME manual":http://common-lisp.net/project/slime/doc/html/
 * "Emacs Cheat Sheet":http://ccrma.stanford.edu/guides/package/emacs/emacs.html
 * "Practical example of Lisp’s flexibility?":http://stackoverflow.com/questions/106058/practical-example-of-lisps-flexibility some great macro examples
-* "Casting SPELs in LISP":http://www.lisperati.com/casting.html lisp comic book
+* "Casting SPELs in LISP":http://www.lisperati.com/casting.html lisp comic book - tutorial for writing a game in lisp
+* "CL, Music and SLIME Tutorials":http://bc.tech.coop/blog/050501.html Tutorial for getting up to speed on emacs+slime+lisp
 
 h3. Stories
 
