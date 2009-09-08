@@ -65,6 +65,7 @@ h3. General
 * "Casting SPELs in LISP":http://www.lisperati.com/casting.html lisp comic book - tutorial for writing a game in lisp
 * "CL, Music and SLIME Tutorials":http://bc.tech.coop/blog/050501.html Tutorial for getting up to speed on emacs+slime+lisp
 * "Ready Lisp":http://www.newartisans.com/projects/ready-lisp.html a binding together of several popular Common Lisp packages especially for Mac OS X
+* "Before you start learning Lisp":http://abhishek.geek.nz/docs/lisp-answers/ nice overview before you get started
 
 h3. Stories
 
